@@ -1,24 +1,45 @@
+body {
+  background: none;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+
 .card text-center{
 	text-align: center;
 }
 
 .imagecircle{
-	border-radius: 50%
+	border-radius: 50%;
 }
 
 .Titles{
 	color: #C04B76;
 }
 
-.Interests{
+.Experience{
 	font-weight: bold;
 }
 
-.navbar{
+.Education{
+	font-weight: bold;
+}
+
+
+.Portfolio{
 	color: white;
 	font-size: 20px;
 }
 
-.nav-item{
-	display: inline;
+.nav-link{
+	color: white;
+	
+}
+
+.card {
+  border-color: #ccc;
+}
+
+.card-block{
+  float: right;
 }
