@@ -1,0 +1,24 @@
+.card text-center{
+	text-align: center;
+}
+
+.imagecircle{
+	border-radius: 50%
+}
+
+.Titles{
+	color: #C04B76;
+}
+
+.Interests{
+	font-weight: bold;
+}
+
+.navbar{
+	color: white;
+	font-size: 20px;
+}
+
+.nav-item{
+	display: inline;
+}
